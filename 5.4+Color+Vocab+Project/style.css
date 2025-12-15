@@ -1,0 +1,30 @@
+.color-title {
+  font-weight: normal;
+}
+
+/* Color meanings using IDs */
+#red {
+  color: red;
+}
+
+#blue {
+  color: blue;
+}
+
+#orange {
+  color: orange;
+}
+
+#green {
+  color: green;
+}
+
+#yellow {
+  color: yellow;
+}
+
+/* Set all images to 200px x 200px */
+img {
+  width: 200px;
+  height: 200px;
+}
